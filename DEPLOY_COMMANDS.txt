@@ -1,0 +1,11 @@
+1.npm run build
+
+2. git add .
+
+3. git add dist/ -f
+
+4.  git commit -m "Update site - latest version"
+
+5. git push origin main
+
+npm run build && git add . && git add dist/ -f && git commit -m "Update site" && git push origin main
